@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="9531" systemVersion="15C50" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9529"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="AddressViewController">
+            <connections>
+                <outlet property="view" destination="i4Y-Js-jmV" id="R1r-ft-QDB"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i4Y-Js-jmV">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" indicatorStyle="black" style="grouped" separatorStyle="default" rowHeight="44" sectionHeaderHeight="18" sectionFooterHeight="18" translatesAutoresizingMaskIntoConstraints="NO" id="OSf-rx-3Ps">
+                    <rect key="frame" x="0.0" y="64" width="320" height="464"/>
+                    <color key="backgroundColor" red="0.93725490199999995" green="0.93725490199999995" blue="0.95686274510000002" alpha="1" colorSpace="calibratedRGB"/>
+                    <connections>
+                        <outlet property="dataSource" destination="-1" id="SL5-s5-W0T"/>
+                        <outlet property="delegate" destination="-1" id="hsd-DN-wKU"/>
+                    </connections>
+                </tableView>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="JlO-kB-Y4m" customClass="LocalizedButton">
+                    <rect key="frame" x="0.0" y="528" width="320" height="40"/>
+                    <color key="backgroundColor" red="0.14901960780000001" green="0.16862745100000001" blue="0.18039215689999999" alpha="1" colorSpace="calibratedRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="width" secondItem="JlO-kB-Y4m" secondAttribute="height" multiplier="8:1" id="YDZ-7v-7C0"/>
+                    </constraints>
+                    <state key="normal" title="+   新建收货地址">
+                        <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    </state>
+                </button>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="OSf-rx-3Ps" firstAttribute="top" secondItem="i4Y-Js-jmV" secondAttribute="top" constant="64" id="Nas-S8-tAk"/>
+                <constraint firstAttribute="bottom" secondItem="JlO-kB-Y4m" secondAttribute="bottom" id="TT2-bV-5zE"/>
+                <constraint firstItem="JlO-kB-Y4m" firstAttribute="top" secondItem="OSf-rx-3Ps" secondAttribute="bottom" id="Vv5-da-XRI"/>
+                <constraint firstItem="OSf-rx-3Ps" firstAttribute="leading" secondItem="i4Y-Js-jmV" secondAttribute="leading" id="Y3i-ib-U47"/>
+                <constraint firstAttribute="trailing" secondItem="OSf-rx-3Ps" secondAttribute="trailing" id="dfF-bH-8D2"/>
+                <constraint firstAttribute="trailing" secondItem="JlO-kB-Y4m" secondAttribute="trailing" id="mfO-37-TWk"/>
+                <constraint firstItem="JlO-kB-Y4m" firstAttribute="leading" secondItem="i4Y-Js-jmV" secondAttribute="leading" id="rm4-Te-XnQ"/>
+            </constraints>
+            <point key="canvasLocation" x="212" y="345"/>
+        </view>
+    </objects>
+</document>

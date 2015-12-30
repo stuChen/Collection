@@ -1,0 +1,514 @@
+/* 
+  Language.strings
+  differennt
+
+  Created by apple on 15/12/7.
+  Copyright © 2015年 bodecn. All rights reserved.
+*/
+"index"          ="不  同";
+"Men"           ="男士";
+"Women"          ="女士";
+"Setting" = "设置";
+"Home Page" = "首页";
+"Brand A-Z" = "品牌 A-Z";
+"Search Goods"   ="搜索商品";
+"Clear search records" = "清除搜索记录";
+"Settlement" = "去结算";
+"Phone number / email" = "手机号/电子邮箱";
+"Cancel"         ="取消";
+
+"Login"          ="登录";
+
+"Register"       ="注册";
+"Register Protocal"="注册协议";
+
+"Input your Phone Number" ="输入手机号";
+
+"Get Code"       ="获取短信验证码";
+
+"Input Code"     ="输入验证码";
+
+"Input Password" ="输入密码";
+
+"Input Password Again" ="再次输入密码";
+
+
+"Create Account"   ="创建账户";
+
+
+"Already Read Protocal" ="已阅读协议";
+
+"Login Now"       ="立即登录";
+
+"Already Have Account" ="已经拥有账户";
+
+"To Get Again"    ="再获取";
+//导航栏
+"Man Zone" = "去男士专区";
+"New Goods"      ="新品";
+"Discount column"      ="折扣专栏";
+"Search result"          ="搜索结果";
+"Topic"          ="专题";
+
+"The special showcase" ="专题展厅";
+
+"AllCategorys"   ="全部分类";
+
+"Shopping Bag"   ="购物袋";
+
+"Aspiration List"="心愿单";
+
+"Order Form"     ="我的订单";
+
+"Return Note"      ="退货单";
+
+"Country Change" ="更换国家";
+
+"Account Setting"="账户设置";
+
+"Men zone"="去男性专区";
+"Ms zone" ="去女性专区";
+
+//首页
+
+"Login Test"     ="登陆测试";
+
+"All brands"="全部品牌";
+"Brand showcase"="展厅看看";
+
+
+"Recommended for you"="为您推荐的商品";
+"All categories"="全部分类";
+
+//新品
+
+"Category"       ="类别";
+
+"Popularity"     ="人气";
+
+"New releases" = "最新";
+
+"Price"          ="价格";
+
+"Supply Shortage"="即将断货";
+
+//专题
+"Topic Hall"     ="专题展厅";
+
+//全部分类
+
+//购物袋
+
+"Edit"           ="编辑";
+
+"Done"           ="完成";
+
+"Settle Accounts"="结账";
+
+"Shopping Bag Subtotal"="购物袋小计";
+
+"Delivery Free"  ="免费送货";
+
+"Move In Asprition"="移入心愿单";
+
+"Currently Available"="目前有货";
+
+"Delivery Time"  ="预计发货时间";
+
+"Delete"         ="删除";
+
+
+"color"="颜色: ";
+
+"size"="尺码: ";
+"Buy now"="结账";
+
+"You have not yet signed in"="您尚未登录";
+"If you don’t have an account, please click the Express Checkout"="如果您没有账号,请点快速结算";
+"Express Checkout"="快速结算";
+"sign in/ registry"="登录/注册";
+
+"Your shopping cart is empty"="购物袋空空的";
+"Start shopping now"="去挑选";
+
+//填写订单
+"Fill Order" ="填写订单";
+
+"Consignee"      ="收 货 人:";
+
+"Phone"          ="电话:";
+
+"Method of Payment"="支付方式";
+
+"Invoice Information"="发票信息";
+
+"Total Price"    ="总额";
+
+"Delivery fee"   ="运费";
+
+"Payment Fact"   ="实付款";
+
+"Submit Orders"  ="提交订单";
+
+
+
+//收货地址
+"Shipping Address"="收货地址";
+
+"Add Address"     ="新建地址";
+
+"Edit Address"    ="编辑收货地址";
+//新建收货地址
+"Phone Number"    ="电话号码:";
+
+"select city"     = "点击选择地区";
+"City"            ="所在地区:";
+
+"Address Detail"  ="详细地址:";
+
+"Save And Use"    ="保存并使用";
+"Email"             ="邮箱:";
+
+//支付方式
+
+"Add Credit Card" ="添加信用卡";
+
+"Pay With Internet Bank"="网上银行支付";
+
+
+//心愿单
+"Move Out"="移除";
+
+//订单日期
+
+"Order Date"     ="订单日期";
+
+"Order Id"       ="订单号";
+
+//订单详情
+"Order Detail"   ="订单详情";
+
+"already Delivery"="已发货";
+"To payment"     = "待付款";
+"To Delivery"    ="待发货";
+"Delivery expend"="此订单我们将为您保留两小时,请尽快付款!";
+"Delivery Fail"  ="已失效";
+
+"To Get"         ="待收货";
+
+"Delivery"       ="交付方式";
+
+"By the standard express shipping"="由标准快递运送";
+
+"To track the delivery"="[跟踪发货]";
+
+"Shipping Destination"="运送目的地";
+
+"theContact"     ="联系人";
+"contactPhone"      = "联系电话";
+
+"Invoice"        ="发票";
+
+"Order Total"    ="订单总计";
+
+"order time"      ="下单时间";
+
+"Pay now"="去支付";
+
+"payment received"="已支付";
+"awaiting payment"="未支付";
+"disabled"        = "已失效";
+
+//类别
+
+"People"         ="人群";
+
+"Total"          ="全部";
+
+"Girl"           ="女";
+
+"Middle"         ="中性";
+
+"Boy"            ="男";
+
+"Clothing"       ="服装";
+
+"Bag"            ="包袋";
+
+"Shoes"          ="鞋履";
+
+"Accessories"    ="配饰";
+
+"Wrist watch"    ="腕表";
+
+"Beauty Makeup"  ="美妆";
+
+
+"Ensure"         ="确定";
+
+"Reset"          ="重置";
+
+//筛选
+
+"Screening"      ="筛选";
+
+"Beach"          ="沙滩装";
+
+"Coat"           ="外套";
+
+"Dress"          ="连衣裙";
+
+"The jacket"     ="夹克";
+
+"Pair of jeans"  ="牛仔裤";
+
+"Jumpsuit"       ="连身裤";
+
+"Knit pants"     ="针织裤";
+
+//商品详情
+"Goods Detail"   ="商品详情";
+"Size table" = "尺码对照表";
+
+"Add To Aspiration" ="加入心愿单";
+
+"Product descriptions"="商品描述";
+
+"Add to the shopping cart"="加入购物袋";
+
+"Product code"    ="产品编码:";
+
+"Size" ="尺码信息";
+
+"Materials" ="商品信息";
+
+"More recommendations for the same brand"="同品牌更多推荐";
+
+"Succeed in adding to Wish List" ="添加心愿单成功";
+
+"Have added to Wish List"="已加入心愿单";
+
+//更换国家
+
+"Change Country"   ="更换国家";
+
+"Change Country Says"="不同提供了多种语言版本，为了方便您的购物。\n请选择国家,开始购物";
+
+
+//账户设置
+
+"AccountSetting"   ="账户设置";
+
+"WelcomeToMK"      ="欢迎来到不同";
+
+"Login/Register"   ="登陆/注册";
+
+"AccountManager"   ="账户管理";
+
+"ImageManager"     ="图片管理";
+
+"Notification"     ="通知";
+
+"About Us"          ="关于我们";
+
+"account management"= "账户管理";
+
+"address management"="地址管理";
+"privacy"               = "隐私协议";
+
+"Intelligence environment"="智能环境";
+"High quality (fit for the Wi-Fi environment)"="高质量(适合Wi-Fi环境)";
+
+"Ordinary (fit for the 3G or 2G environment)"="普通(适合3G或2G环境)";
+
+"Set a password"="设置密码";
+"Sign out"="退出登录";
+"Please don’t sign out until a new password is set"="请设置密码后再退出";
+"signing out now"="正在退出";
+"Version updating"="版本更新";
+"Feedbacks"="意见反馈";
+"Items you want"="你想要的商品";
+"Welcome page"="欢迎页";
+"Clear the cache"="清除缓存";
+"About us"="关于我们";
+
+
+"Are you sure to clear the cache?" ="确定要清除缓存么?";
+
+"ProductSupport"  ="产品支持";
+"clearing"          ="清除完成";
+"Help"             ="帮助";
+
+"PhoneMK"         ="致电不同";
+
+"MKSaleRole"       ="不同  销售及退款政策";
+
+"MKPersonalRole"    ="不同  隐私政策";
+
+"CopyRight"         ="Poseidon Co.,Ltd. @2015 版权所有";
+
+"Items you want"    ="您想要的商品";
+
+"We will help you" ="我们帮您找!";
+
+"Please type in the luxuries you want to buy"="请输入您想要买的奢侈品.";
+
+"brand/ name/ description"="品牌／名字／描述";
+
+"We will contact you as soon as we find your luxuries"="找到您的奢侈品，马上联系您";
+
+"Please type in your phone number"="请输入您的手机号";
+
+"We will help you immediately"="即刻帮您寻找";
+
+
+"Feedback"              ="意见反馈";
+
+"Submit"                ="提交";
+
+"Functional suggestions"    ="功能建议";
+
+"We have received your suggestions. Thank you sincerely"="您的建议我们已经收到，真诚的谢谢您!";
+
+"Give us suggestions of product experience"="告诉我们产品体验上的建议";
+
+"problem feedbacks"="问题反馈";
+
+"Feedbacks on the functions which cannot work properly"="反馈不能正常使用的功能";
+"functional suggestions" ="功能建议";
+
+"It has been the latest version. Thank you"="已是最新版本，谢谢!";
+
+
+//设置登录密码
+
+"Set your login password"="设置登录密码";
+
+"Verification of identity"="验证身份";
+
+"set the sign password"="设置登录密码";
+
+"Obtain your phone verification code"="获取手机验证码";
+
+"Please type in the code"="请输入验证码";
+
+"close"="关闭";
+
+
+
+//品牌搜索
+
+"Brand search" ="品牌搜索";
+"search" ="搜索";
+
+"Sorry, your search did not match any products, please change your keywords."="无搜索结果，请更换关键词";
+
+//品牌推荐
+"Recommended brands"="品牌推荐";
+
+"popularity"="人气";
+
+"New releases" = "最新";
+
+"price"="价格";
+
+"immediately out of stock"="即将断货";
+"Has been sold out" = "已售罄";
+
+//登陆
+"Sign in" ="登录";
+
+"account" ="账号";
+
+"mobile/e-mail"="请输入手机号";
+
+"password"="密码";
+
+"Please type in your password"="请输入密码";
+
+"Not a member?"="新朋友?";
+
+"Create My Account"="创建账户";
+
+"Forgot Password?"="找回密码";
+
+"Conditions of Use and Conditions of Sales Terms" ="使用和销售条款条件";
+
+"Privacy Notice"="隐私申明";
+
+"Copyright"="Poseidon Co.,Ltd. @2015 版权所有";
+
+//心愿单
+
+"Wish list"="心愿单";
+
+"You haven’t added any items to your Wish List yet. Shop Now"="尚无心愿单，去挑选";
+
+"The price falls"="价格下降了";
+
+"Available"="现在有货";
+"Unavailable"="当前缺货";
+
+
+//支付方式选择
+
+"Choose a payment option"="选择支付方式";
+"Alipay"="支付宝";
+"E-currency payment"="网银支付";
+"UnionPay"="银联支付";
+"Payment methods"="付款方式";
+
+//账户管理
+
+"Account management"="账户管理";
+
+"Sign password"="登录密码";
+
+"Recommend that you change your password regularly to protect your account security"="*建议您定期更改密码以保护账号安全";
+
+"phone verification"="手机验证";
+"If your verified mobile phone has been lost or out of use, please change or replace it immediately"="*若您的验证手机已丢失或停用，请立即更换更改";
+
+//修改登录密码
+
+"Change the sign password"  = "修改登录密码";
+
+"change the sign password"  = "修改登录密码";
+
+"Find the login password"   = "找回登录密码";
+"Set the password"          = "设置登录密码";
+
+"verified phone"="已验证手机:  ";
+
+"Next"="下一步";
+
+"Please fill in the code"="请填写验证码";
+
+"Please enter the code"="请输入验证码";
+"ExpressTips"="无物流信息";
+"ExpressCheck"="物流查看";
+"Rewrite password" = "请再次输入密码";
+"New Password setted"="新密码已设置成功";
+"alter phone validation" = "修改手机验证";
+"alter validated phone"="修改已验证手机";
+"current mobile number"="您当前的手机号是";
+
+
+//后来追加
+"tips"="小提示";
+"tips detail"= "设置手机验证后,可以用于快速找回密码,接受账户资产变动提醒。";
+"tips question"= "验证身份问题?您可以";
+"contact service" = "联系客服";
+"rewrite new phone"="请输入新的手机号";
+"Verify phone number"="验证手机号";
+"Message code"="短信验证码";
+"New phone set successfully"="新手机已设置成功";
+"enter correct phone number"="请输入正确的手机号";
+"reget"="s后再次获取";
+"error code"="验证码错误";
+"error phone"="手机号输入错误";
+"match passwords"="两次密码不一致";
+"group"="全部分类";
+"recommend"="推荐";
+"Not required"  = "可不填";
+"Advice to fill in"  = "建议填写";

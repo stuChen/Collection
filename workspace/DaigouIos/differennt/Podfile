@@ -1,0 +1,11 @@
+platform :ios, "7.0"
+
+pod 'SDWebImage'
+pod "AFNetworking"
+pod 'SWTableViewCell', '~> 0.3.7'
+pod 'REFrostedViewController'
+pod 'UMengAnalytics'
+pod 'MJRefresh'
+pod 'UMengSocial', '~> 4.3'
+pod 'MWPhotoBrowser'
+pod 'SVProgressHUD'

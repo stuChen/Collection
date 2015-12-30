@@ -1,0 +1,510 @@
+/* 
+  Language.strings
+  differennt
+
+  Created by apple on 15/12/7.
+  Copyright © 2015年 bodecn. All rights reserved.
+*/
+"index"          ="Differennt";
+
+"Men"           ="Man";
+"Women"          ="Women";
+"Setting" = "Setting";
+"Home Page" = "Home Page";
+"Brand A-Z" = "Brand A-Z";
+"Cancel"         ="Cancel";
+"Clear search records" = "Clear search records";
+"Search Goods"   ="Search Goods";
+"Phone number / email" = "Phone number / email";
+"Settlement" = "Settlement";
+"Login"          ="Login";
+
+"Register"       ="Register";
+"Register Protocal"="Register Protocal";
+
+"Input your Phone Number" ="Enter your mobile number";
+
+"Get Code"       ="Get Code";
+
+"Input Code"     ="Enter the verification code";
+
+"Input Password" ="type in your password";
+
+"Input Password Again" ="type in your password again";
+
+
+"Create Account"   ="Create Account";
+
+
+"Already Read Protocal" ="Already Read Protocal";
+
+"Login Now"       ="Login Now";
+
+"Already Have Account" ="Already Have Account";
+
+
+"To Get Again"    ="To Get Again";
+//导航栏
+"Man Zone" = "Man Zone";
+"New Goods"      ="New items";
+"Discount column"      ="Discount column";
+"Topic"          ="subjects";
+
+"The special showcase" ="The special showcase";
+
+"AllCategorys"   ="all categories";
+
+"Shopping Bag"   ="shopping bag";
+
+"Aspiration List"="Wish List";
+
+"Order Form"     ="My Order";
+
+"Order Form"     ="Return list";
+
+"Country Change" ="select regional settings";
+
+"Account Setting"="account settings";
+
+"Your shopping cart is empty"="Your shopping cart is empty";
+"Start shopping now"="Start now";
+
+"Men zone"="Men zone";
+"Ms zone" ="Ms zone";
+
+//首页
+
+"Login Test"     ="Login Test";
+
+"All brands"="Brands";
+"Brand showcase"="Brand showcase";
+
+"Recommended for you"="Recommended for you";
+"All categories"="All categories";
+
+//新品
+
+"Category"       ="Category";
+
+"Popularity"     ="Popularity";
+
+"New releases"   = "New releases";
+
+"Price"          ="Price";
+
+"Supply Shortage"="Supply Shortage";
+
+
+
+//全部分类
+
+//购物袋
+
+"Edit"           ="Edit";
+
+"Done"           ="Done";
+
+
+"Shopping Bag Subtotal"="subtotal";
+
+"Delivery Free"  ="Free shipping";
+
+"Move In Asprition"="MoveToWishList";
+
+"Currently Available"="Currently Available";
+
+"Delivery Time"  ="estimated delivery time";
+
+"Delete"         ="Delete";
+
+"color"="color: ";
+
+"size"="size: ";
+"Buy now"="Buy now";
+
+"You have not yet signed in"="You have not yet signed in";
+"If you don’t have an account, please click the Express Checkout"="If you don’t have an account, please click the Express Checkout";
+"Express Checkout"="Express Checkout";
+"sign in/ registry"="sign in/ registry";
+
+
+//填写订单
+
+"Fill Order" ="Fill Order";
+
+"Consignee"      ="Consignee:";
+
+"Phone"          ="Phone:";
+
+"Method of Payment"="Payment methods";
+
+"Invoice Information"="Invoice Information";
+
+"Total Price"    ="subtotal";
+
+"Delivery fee"   ="shipping";
+
+"Payment Fact"   ="total";
+
+"Submit Orders"  ="Place Orders";
+
+
+//收货地址
+"Shipping Address"="Shipping Address";
+
+"Add Address"     ="Add a new Address";
+
+
+//新建收货地址
+"Phone Number"    ="Phone Number:";
+
+"select city"     = "Click Select Area";
+"City"            ="Country:";
+"Edit Address"    ="Edit Address:";
+"Address Detail"  ="detailed address:";
+
+"Save And Use"    ="Save and ship to this address";
+"Email"            ="Email:";
+
+//支付方式
+
+"Add Credit Card" ="Add Credit Card";
+
+"Pay With Internet Bank"="Pay With Internet Bank";
+
+
+//心愿单
+"Move Out"="Move Out";
+
+//订单日期
+
+"Order Date"     ="Order Date";
+
+"Order Id"       ="Order Id";
+
+//订单详情
+"Order Detail"   ="Order Detail";
+
+"already Delivery"="Shipped";
+"To payment"     = "Pending charges";
+"To Delivery"    ="Orders awaiting delivery";
+"Delivery expend"="This order we will keep you two hours, please pay as soon as possible!";
+"Delivery Fail"  ="Has expired";
+
+"To Get"         ="To Get";
+
+"Delivery"       ="shipping methods";
+
+"By the standard express shipping"="By the standard express shipping";
+
+"To track the delivery"="trace the delivery";
+
+"Shipping Destination"="shipping destination";
+
+"theContact"     ="The contact";
+"contactPhone"      = "Phone";
+
+"Invoice"        ="Invoice";
+
+"Order Total"    ="total amount";
+
+"order time"     ="order time";
+
+"Pay now"="Pay now";
+
+"payment received"="payment received";
+"awaiting payment"="awaiting payment";
+"disabled"        = "Has the failure";
+
+
+
+//类别
+
+"People"         ="People";
+
+"Total"          ="Total";
+
+"Girl"           ="Girl";
+
+"Middle"         ="Middle";
+
+"Boy"            ="Boy";
+
+"Clothing"       ="Clothing";
+
+"Bag"            ="Bag";
+
+"Shoes"          ="Shoes";
+
+"Accessories"    ="Accessories";
+
+"Wrist watch"    ="Wrist watch";
+
+"Beauty Makeup"  ="Beauty Makeup";
+
+
+"Ensure"         ="Confirm";
+
+"Reset"          ="Reset";
+
+//筛选
+
+"Screening"      ="Selections";
+
+"Beach"          ="Beach";
+
+"Coat"           ="Coat";
+
+"Dress"          ="Dress";
+
+"The jacket"     ="The jacket";
+
+"Pair of jeans"  ="Pair of jeans";
+
+"Jumpsuit"       ="Jumpsuit";
+
+"Knit pants"     ="Knit pants";
+
+
+//商品详情
+"Goods Detail"   ="Product details";
+"Size table" = "Size table";
+
+"Add To Aspiration" ="Add to Wish List";
+
+"Product descriptions"="Product descriptions";
+
+"Add to the shopping cart"="Add to the shopping cart";
+
+"Product code"    ="Product code:";
+
+"Size" ="Size";
+
+"Materials" ="Product Information";
+
+"More recommendations for the same brand"="More recommendations for the same brand";
+
+"Succeed in adding to Wish List" ="Succeed in adding to Wish List";
+
+"Have added to Wish List"="Have added to Wish List";
+
+//更换国家
+
+"Change Country"   ="select regional settings";
+
+"Change Country Says"="To facilitate your shopping, we offer a variety of different language versions. Please select a country and start shopping.";
+
+//账户设置
+
+"AccountSetting"   ="Account settings";
+"WelcomeToMK"      ="Welcome to different";
+"Login/Register"   ="Sign in/ register";
+"AccountManager"   ="account management";
+
+"ImageManager"     ="picture management";
+
+"Notification"     ="Notification";
+
+"ProductSupport"  ="Product support";
+
+"account management"= "account management";
+
+"address management"="address management";
+
+"Intelligence environment"="Intelligence environment";
+"High quality (fit for the Wi-Fi environment)"="High quality (fit for the Wi-Fi environment)";
+
+"Ordinary (fit for the 3G or 2G environment)"="Ordinary (fit for the 3G or 2G environment)";
+
+
+"Set a password"="Set a password";
+"Sign out"="Sign out";
+"Please don’t sign out until a new password is set"="Please don’t sign out until a new password is set";
+"signing out now"="signing out now";
+"Version updating"="Version updating";
+"Feedbacks"="Feedbacks";
+"Items you want"="Items you want";
+"Welcome page"="Welcome page";
+"Clear the cache"="Clear the cache";
+"About us"="About us";
+
+
+"clearing"         ="Clearing completed!";
+
+"Are you sure to clear the cache?"  ="Are you sure to clear the cache?";
+"Help"             ="Help";
+
+"About Us"          ="About Us";
+
+"PhoneMK"         ="Phone MK";
+
+"MKSaleRole"       ="MK  SaleRole";
+
+"MKPersonalRole"    ="MK PersonalRole";
+
+"CopyRight"         ="Copy right By Maker Inc";
+
+"Items you want"    ="Items you want";
+
+"We will help you" ="We will help you!";
+
+"Please type in the luxuries you want to buy"="Please type in the luxuries you want to buy.";
+
+"brand/ name/ description"="brand/ name/ description";
+
+"We will contact you as soon as we find your luxuries"="We will contact you as soon as we find your luxuries.";
+
+"Please type in your phone number"="Please type in your phone number.";
+
+"We will help you immediately"="We will help you immediately.";
+
+
+"Feedback"              ="Feedback";
+
+"Submit"                ="Submit";
+
+"Functional suggestions"    ="Functional suggestions";
+
+"We have received your suggestions. Thank you sincerely"="We have received your suggestions. Thank you sincerely!";
+
+"Give us suggestions of product experience"="Give us suggestions of product experience.";
+
+"problem feedbacks"="problem feedbacks";
+
+"Feedbacks on the functions which cannot work properly"="Feedbacks on the functions which cannot work properly";
+"functional suggestions" ="functional suggestions";
+
+
+"It has been the latest version. Thank you" ="It has been the latest version. Thank you!";
+
+//设置登录密码
+
+"Set your login password"="Set your login password";
+
+"Verification of identity"="Verification of identity";
+
+"set the sign password"="set the sign password";
+
+"Obtain your phone verification code"="Obtain your phone verification code";
+
+"Please type in the code"="Please type in the code";
+
+"close"="close";
+
+
+//品牌搜索
+
+"Brand search" ="Brand search";
+
+"search" ="search";
+
+"Sorry, your search did not match any products, please change your keywords."="Sorry, your search did not match any products, please change your keywords.";
+
+//品牌推荐
+
+"Recommended brands"="Recommended brands";
+
+"popularity"="popularity";
+
+"New releases" = "New releases";
+
+"price"="price";
+
+"immediately out of stock"="out of stock";
+"Has been sold out" = "Has been sold out";
+
+
+//登陆
+"Sign in" ="Sign in";
+
+"account" ="account";
+
+"mobile/e-mail"="mobile/e-mail";
+
+"password"="password";
+
+"Please type in your password"="Please type in your password";
+
+"Not a member?"="Not a member?";
+
+"Create My Account"="Create My Account";
+
+"Forgot Password?"="Forgot Password?";
+
+"Conditions of Use and Conditions of Sales Terms" ="Conditions of Use and Conditions of Sales Terms";
+
+"Privacy Notice"="Privacy Notice";
+
+"Copyright"="Poseidon Co., Ltd. @ 2015. All rights reserved";
+
+//心愿单
+
+"Wish list"="Wish list";
+
+"You haven’t added any items to your Wish List yet. Shop Now"="You haven’t added any items to your Wish List yet. Shop Now";
+
+"The price falls"="The price falls";
+
+"Available"="Available";
+"Unavailable"="Unavailable";
+
+//支付方式选择
+
+"Choose a payment option"="Choose a payment option";
+"Alipay"="Alipay";
+"E-currency payment"="E-currency payment";
+"UnionPay"="UnionPay";
+"Payment methods"="Payment methods";
+
+//账户管理
+
+"Account management"="Account management";
+
+"Sign password"="Sign password";
+
+"Recommend that you change your password regularly to protect your account security"="*Recommend that you change your password regularly to protect your account security";
+
+"phone verification"="phone verification";
+"If your verified mobile phone has been lost or out of use, please change or replace it immediately"="*If your verified mobile phone has been lost or out of use, please change or replace it immediately";
+
+//修改登录密码
+
+"Change the sign password"="Change the sign password";
+"change the sign password"="change the sign password";
+"Find the login password"   = "Find the login password";
+"Set the password"          = "Set the password";
+"verified phone"="verified phone:  ";
+"Next"="Next";
+"Rewrite password" = "Please enter the password again";
+
+"Please fill in the code"="Please fill in the code";
+
+"Please enter the code"="Please enter the code";
+"ExpressTips"="There is no logistics information";
+"ExpressCheck"="Logistics view";
+"New Password setted"="A new password has been set successfully";
+"alter phone validation" = "Modify phone verification";
+"alter validated phone"="Modify the authenticated mobile phones";
+"current mobile number"="Your current mobile number is";
+
+
+
+
+//后来追加
+"tips"="Tip";
+"tips detail"= "Set the phone after verification, can be used to quickly retrieve password, accept account balance changes to remind.";
+"tips question"= "Verify the identity problem?You can";
+"contact service" = "Contact customer service";
+"rewrite new phone"="Please enter a new mobile phone number";
+"Verify phone number"="Verify the mobile phone number";
+"Message code"="Message authentication code";
+"New phone set successfully"="New phone has been set successfully";
+"enter correct phone number"="Please enter a correct phone number";
+"reget"="s after Once again";
+"error code"="Verification code error";
+"error phone"="Mobile phone number wrong";
+"match passwords"="The two passwords don't match";
+"group"="classification";
+"recommend"="recommended";
+"Not required"  = "Not required";
+"Advice to fill in" = "Advice to fill in";

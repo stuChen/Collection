@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="9531" systemVersion="15C50" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9529"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="ExactSearchSecondViewController">
+            <connections>
+                <outlet property="_table" destination="WDS-tz-BZX" id="Rz1-5F-CA5"/>
+                <outlet property="view" destination="Mox-kj-E6z" id="GPS-2a-EKG"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="Mox-kj-E6z" customClass="ExactSearch">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="right" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WZD-ry-GMW" customClass="LocalizedButton">
+                    <rect key="frame" x="0.0" y="24" width="56" height="40"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="56" id="5GM-nC-zdb"/>
+                        <constraint firstAttribute="height" constant="40" id="9rT-qy-ORz"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                    <state key="normal" title="选择排序">
+                        <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="bak:" destination="-1" eventType="touchUpInside" id="aZv-i2-WHk"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="FX9-R9-EZh" customClass="LocalizedButton">
+                    <rect key="frame" x="264" y="24" width="56" height="40"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="56" id="3OZ-G4-Nof"/>
+                        <constraint firstAttribute="height" constant="40" id="ABz-nQ-IG1"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                    <state key="normal" title="确定">
+                        <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    </state>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bPk-aI-FqG" customClass="LocalizedButton">
+                    <rect key="frame" x="208" y="24" width="56" height="40"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="40" id="CsE-vx-ria"/>
+                        <constraint firstAttribute="width" constant="56" id="LuR-8j-7J4"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                    <state key="normal" title="重置">
+                        <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    </state>
+                </button>
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" indicatorStyle="black" style="plain" separatorStyle="none" rowHeight="50" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="WDS-tz-BZX">
+                    <rect key="frame" x="0.0" y="66" width="320" height="502"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <connections>
+                        <outlet property="dataSource" destination="-1" id="7tM-S1-RCf"/>
+                        <outlet property="delegate" destination="-1" id="epF-qs-Y5F"/>
+                    </connections>
+                </tableView>
+            </subviews>
+            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.89801640069999999" colorSpace="calibratedRGB"/>
+            <constraints>
+                <constraint firstItem="WZD-ry-GMW" firstAttribute="leading" secondItem="Mox-kj-E6z" secondAttribute="leading" id="Ja7-ON-49a"/>
+                <constraint firstAttribute="trailing" secondItem="WDS-tz-BZX" secondAttribute="trailing" id="Jtf-7c-Lx8"/>
+                <constraint firstItem="WDS-tz-BZX" firstAttribute="leading" secondItem="Mox-kj-E6z" secondAttribute="leading" id="WEp-l1-xXv"/>
+                <constraint firstItem="WDS-tz-BZX" firstAttribute="top" secondItem="bPk-aI-FqG" secondAttribute="bottom" constant="2" id="Xyw-6F-Hmn"/>
+                <constraint firstItem="bPk-aI-FqG" firstAttribute="top" secondItem="Mox-kj-E6z" secondAttribute="top" constant="24" id="a0L-lk-w4x"/>
+                <constraint firstItem="WZD-ry-GMW" firstAttribute="top" secondItem="Mox-kj-E6z" secondAttribute="top" constant="24" id="glg-tg-yjg"/>
+                <constraint firstAttribute="trailing" secondItem="FX9-R9-EZh" secondAttribute="trailing" id="nN6-T2-q1b"/>
+                <constraint firstAttribute="bottom" secondItem="WDS-tz-BZX" secondAttribute="bottom" id="nN7-qS-Qdm"/>
+                <constraint firstItem="FX9-R9-EZh" firstAttribute="leading" secondItem="bPk-aI-FqG" secondAttribute="trailing" id="nWU-XA-bCQ"/>
+                <constraint firstItem="FX9-R9-EZh" firstAttribute="top" secondItem="Mox-kj-E6z" secondAttribute="top" constant="24" id="v8L-x0-DbB"/>
+            </constraints>
+            <connections>
+                <outlet property="table" destination="WDS-tz-BZX" id="6oW-Hq-XEF"/>
+            </connections>
+            <point key="canvasLocation" x="-94" y="231"/>
+        </view>
+    </objects>
+</document>

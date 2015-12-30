@@ -1,0 +1,515 @@
+/* 
+  Language.strings
+  differennt
+
+  Created by apple on 15/12/7.
+  Copyright © 2015年 bodecn. All rights reserved.
+*/
+"index"          ="다른";
+"Men"           ="남성 영역";
+"Women"          ="양 지역";
+"Setting" = "설치";
+"Home Page" = "메인";
+"Brand A-Z" = "브랜드 A-Z";
+"Search Goods"   ="상품 검색";
+
+"Cancel"         ="취소";
+
+"Login"          ="로그인";
+"Clear search records" = "검색 기록 비우기";
+"Settlement" = "가서 결산";
+"Phone number / email" = "전자 메일 핸드폰 번호 /";
+
+"Register"       ="등록";
+"Register Protocal"="등록 계약";
+
+"Input your Phone Number" ="전화 번호를 입력";
+
+"Get Code"       ="SMS 인증 코드 받기";
+
+"Input Code"     ="확인 코드를 입력";
+
+"Input Password" ="암호를 입력";
+
+"Input Password Again" ="암호를 다시 입력";
+
+
+"Create Account"   ="계정 만들기";
+
+
+"Already Read Protocal" ="계약서를 읽고";
+
+"Login Now"       ="지금 로그인";
+
+"Already Have Account" ="이미 계정을 가지고";
+
+"To Get Again"    ="재 취득";
+//导航栏
+"Man Zone" = "사람 데리고";
+"New Goods"      ="신제품";
+"Discount column"      ="할인 코너";
+
+"Topic"          ="특별 주제";
+
+"The special showcase" ="특별 전시 갤러리";
+
+"AllCategorys"   ="모든 카테고리";
+
+"Shopping Bag"   ="쇼핑 가방";
+
+"Aspiration List"="위시리스트";
+
+"Order Form"     ="내 주문";
+
+"Return Note"    ="반품 싱글";
+
+"Country Change" ="국가 변경";
+
+"Account Setting"="계정 설정";
+
+"Men zone"="남자는 영역을 이동";
+"Ms zone" ="여성 영역을 이동";
+
+//首页
+
+"Login Test"     ="테스트에 로그인";
+
+"All brands"="모든 브랜드";
+"Brand showcase"="홀보기";
+
+
+"Recommended for you"="당신의 상품을 추천";
+"All categories"="모든 카테고리";
+
+//新品
+
+"Category"       ="범주";
+
+"Popularity"     ="인기";
+
+"New releases" = "최신 진열";
+
+"Price"          ="가격";
+
+"Supply Shortage"="주식 곧";
+
+//专题
+"Topic Hall"     ="특별 전시 갤러리";
+
+//全部分类
+
+//购物袋
+
+"Edit"           ="편집자";
+
+"Done"           ="수행";
+
+"Settle Accounts"="빌주세요";
+
+"Shopping Bag Subtotal"="쇼핑백 소계";
+
+"Delivery Free"  ="무료 배송";
+
+"Move In Asprition"="이전 위시리스트";
+
+"Currently Available"="현재 재고";
+
+"Delivery Time"  ="예상 배송 시간";
+
+"Delete"         ="삭제";
+
+
+"color"="색: ";
+
+"size"="크기: ";
+"Buy now"="빌주세요";
+
+"You have not yet signed in"="당신에 기록되지 않습니다";
+"If you don’t have an account, please click the Express Checkout"="당신은 계정이없는 경우,빠른 정착을 가리하세요";
+"Express Checkout"="빠른 정착";
+"sign in/ registry"="로그인 / 회원 가입";
+
+"Your shopping cart is empty"="쇼핑 가방 빈에게";
+"Start shopping now"="선택하려면";
+
+//填写订单
+"Fill Order" ="주문을 채우기";
+
+"Consignee"      ="수취인:";
+
+"Phone"          ="전화:";
+
+"Method of Payment"="지불";
+
+"Invoice Information"="송장 정보";
+
+"Total Price"    ="총액";
+
+"Delivery fee"   ="화물";
+
+"Payment Fact"   ="지급";
+
+"Submit Orders"  ="주문 제출";
+
+
+
+//收货地址
+"Shipping Address"="배송 주소";
+
+"Add Address"     ="새 주소";
+
+"Edit Address"    ="편집 배달 주소";
+//新建收货地址
+"Phone Number"    ="전화 번호:";
+
+"select city"     = "지역 선택을 클릭합니다";
+"City"            ="위치:";
+
+"Address Detail"  ="주소:";
+
+"Save And Use"    ="저장 및 사용";
+"Email"             ="사서함:";
+
+//支付方式
+
+"Add Credit Card" ="신용 카드 추가";
+
+"Pay With Internet Bank"="온라인 뱅킹 결제";
+
+
+//心愿单
+"Move Out"="제거";
+
+//订单日期
+
+"Order Date"     ="주문 날짜";
+
+"Order Id"       ="주문 번호";
+
+//订单详情
+"Order Detail"   ="주문 정보";
+
+"already Delivery"="배송";
+"To payment"     = "요금을 보류";
+"To Delivery"    ="발송하기";
+"Delivery expend"="우리는 당신이 두 시간 계속됩니다이 순서는, 가능한 한 빨리 지불하십시오!";
+"Delivery Fail"  ="그것은 만료";
+
+"To Get"         ="인바운드";
+
+"Delivery"       ="배달";
+
+"By the standard express shipping"="표준 택배로 수송";
+
+"To track the delivery"="[발송 추적]";
+
+"Shipping Destination"="배송 주소";
+
+"theContact"     ="' 물타기 '";
+"contactPhone"      = "전화";
+
+"Invoice"        ="송장";
+
+"Order Total"    ="총 주문";
+
+"order time"      ="주문 시간";
+
+"Pay now"="지불하려면";
+
+"payment received"="유료";
+"awaiting payment"=" 지불하지 않은";
+"disabled"        = "이미 효력 을";
+
+//类别
+
+"People"         ="군중";
+
+"Total"          ="전체의";
+
+"Girl"           ="여자";
+
+"Middle"         ="중립의";
+
+"Boy"            ="남성";
+
+"Clothing"       ="의류";
+
+"Bag"            ="가방";
+
+"Shoes"          ="신발류";
+
+"Accessories"    ="부속품";
+
+"Wrist watch"    ="시계";
+
+"Beauty Makeup"  ="아름다움";
+
+
+"Ensure"         ="결정";
+
+"Reset"          ="재설정";
+
+//筛选
+
+"Screening"      ="필터";
+
+"Beach"          ="비치웨어";
+
+"Coat"           ="코트";
+
+"Dress"          ="드레스";
+
+"The jacket"     ="재킷";
+
+"Pair of jeans"  ="청바지";
+
+"Jumpsuit"       ="조각 바지";
+
+"Knit pants"     ="니트 바지";
+
+//商品详情
+"Goods Detail"   ="제품 상세 정보";
+"Size table" = "사이즈 차트";
+
+"Add To Aspiration" ="위시리스트에 가입";
+
+"Product descriptions"="제품 설명";
+
+"Add to the shopping cart"="쇼핑백 담기";
+
+"Product code"    ="제품 코드:";
+
+"Size" ="크기 정보";
+
+"Materials" ="제품 정보";
+
+"More recommendations for the same brand"="더 같은 브랜드를 추천합니다";
+
+"Succeed in adding to Wish List" ="위시리스트 성공에 추가";
+
+"Have added to Wish List"="가입 위시리스트를 가지고";
+
+//更换国家
+
+"Change Country"   ="국가 변경";
+
+"Change Country Says"="다른 언어 버전을 제공합니다，쇼핑을 촉진하기 위하여。\n국가를 선택하십시오,쇼핑을 시작합니다";
+
+
+//账户设置
+
+"AccountSetting"   ="계정 설정";
+
+"WelcomeToMK"      ="다른에 오신 것을 환영합니다";
+
+"Login/Register"   ="로그인 / 회원 가입";
+
+"AccountManager"   ="계정 관리";
+
+"ImageManager"     ="사진";
+
+"Notification"     ="공고";
+
+"About Us"          ="회사 소개";
+
+"account management"= "계정 관리";
+
+"address management"="주소 관리";
+"privacy"               = "개인 정보 보호 협정";
+
+"Intelligence environment"="지능형 환경";
+"High quality (fit for the Wi-Fi environment)"="높은 품질(와이파이 환경의)";
+
+"Ordinary (fit for the 3G or 2G environment)"="일반(3G 또는 2G 환경의)";
+
+"Set a password"="암호 설정";
+"Sign out"="로그 아웃";
+"Please don’t sign out until a new password is set"="암호를 설정 한 후 종료하십시오";
+"signing out now"="종료";
+"Version updating"="버전 업데이트";
+"Feedbacks"="피드백";
+"Items you want"="당신이 원하는 제품";
+"Welcome page"="시작 페이지";
+"Clear the cache"="캐시 지우기";
+"About us"="회사 소개";
+
+
+"Are you sure to clear the cache?" ="당신은 확실히 당신은 캐시를 지우려면 무엇?";
+
+"ProductSupport"  ="제품 지원";
+"clearing"          ="클리어 완료";
+"Help"             ="도와주세요";
+
+"PhoneMK"         ="다른 전화";
+
+"MKSaleRole"       ="다른  판매 및 환불 정책";
+
+"MKPersonalRole"    ="다른  개인 정보 보호 정책";
+
+"CopyRight"         ="Co. 포 세 이 돈 을 족집게 처 럼 @ 2015 판권 소유 다";
+
+"Items you want"    ="당신은 거래 할";
+
+"We will help you" ="우리는 당신이 찾을 수 있도록!";
+
+"Please type in the luxuries you want to buy"="구입하려는 고급 스러움을 입력하세요.";
+
+"brand/ name/ description"="브랜드 / 이름 / 설명";
+
+"We will contact you as soon as we find your luxuries"="바로 문의하십시오 고급 스러움을 찾아,";
+
+"Please type in your phone number"="당신의 전화 번호를 입력";
+
+"We will help you immediately"="당신이 찾아 즉시 도움";
+
+
+"Feedback"              ="피드백";
+
+"Submit"                ="제출";
+
+"Functional suggestions"    ="기능 제안";
+
+"We have received your suggestions. Thank you sincerely"="우리는 당신의 제안을받은,진심으로 감사드립니다!";
+
+"Give us suggestions of product experience"="우리에게 제품 경험에 대한 제안 사항을 알려";
+
+"problem feedbacks"="피드백";
+
+"Feedbacks on the functions which cannot work properly"="피드백이 제대로 작동하지 않을 수 있습니다";
+"functional suggestions" ="기능 제안";
+
+"It has been the latest version. Thank you"="최신 버전입니다,THX!";
+
+
+//设置登录密码
+
+"Set your login password"="암호 설정";
+
+"Verification of identity"="인증";
+
+"set the sign password"="암호 설정";
+
+"Obtain your phone verification code"="전화 인증 코드 받기";
+
+"Please type in the code"="인증 코드를 입력하세요";
+
+"close"="종료";
+
+
+
+//品牌搜索
+
+"Brand search" ="브랜드 검색";
+"search" ="검색";
+
+"Sorry, your search did not match any products, please change your keywords."="어떤 검색 결과가 없습니다,키워드를 교체";
+
+//品牌推荐
+"Recommended brands"="추천 브랜드";
+
+"popularity"="인기";
+
+"New releases" = "최신 진열";
+
+"price"="가격";
+
+"immediately out of stock"="주식 곧";
+"Has been sold out" = "매진";
+
+//登陆
+"Sign in" ="로그인";
+
+"account" ="계좌 번호";
+
+"mobile/e-mail"="전화 번호 / 이메일";
+
+"password"="암호";
+
+"Please type in your password"="비밀번호를 입력하세요";
+
+"Not a member?"="새로운 친구?";
+
+"Create My Account"="계정 만들기";
+
+"Forgot Password?"="비밀번호 분실";
+
+"Conditions of Use and Conditions of Sales Terms" ="약관 및 사용 및 판매 조건";
+
+"Privacy Notice"="개인 정보 보호 정책";
+
+"Copyright"="Co. 포 세 이 돈 을 족집게 처 럼 @ 2015 판권 소유 다";
+
+//心愿单
+
+"Wish list"="위시리스트";
+
+"You haven’t added any items to your Wish List yet. Shop Now"="그러나 위시리스트,선택하려면";
+
+"The price falls"="가격은 떨어졌다";
+
+"Available"="선주문";
+"Unavailable"="현재 품절";
+
+
+//支付方式选择
+
+"Choose a payment option"="결제 방법 선택";
+"Alipay"="지급 보";
+"E-currency payment"="온라인 뱅킹 결제";
+"UnionPay"="유 니 언 페 이 지급";
+"Payment methods"="지불 방식";
+//账户管理
+
+"Account management"="계정 관리";
+
+"Sign password"="로그인 비밀번호";
+
+"Recommend that you change your password regularly to protect your account security"="*우리는 당신의 계정 보안을 보호하기 위해 비밀번호를 정기적으로 변경하는 것이 좋습니다";
+
+"phone verification"="手机验证";
+"If your verified mobile phone has been lost or out of use, please change or replace it immediately"="*휴대 전화가 분실 또는 검증을 비활성화하는 경우,즉시 변경 바꾸기";
+
+//修改登录密码
+
+"Change the sign password"  = "비밀번호 변경";
+
+"change the sign password"  = "비밀번호 변경";
+
+"Find the login password"   = "비밀번호 분실";
+"Set the password"          = "암호 설정";
+
+"verified phone"="검증 된 전화:  ";
+
+"Next"="다음에";
+
+"Please fill in the code"="인증 코드를 입력 해주세요";
+
+"Please enter the code"="인증 코드를 입력하세요";
+"ExpressTips"="무 물류 정보";
+"ExpressCheck"="물류 살 펴 보고";
+"Rewrite password" = "다시 비밀번호 를 입력 하세요";
+"New Password setted"="새 비밀번호 가 설치 에 성공 했 다";
+"alter phone validation" = "개정 휴대전화 검증";
+"alter validated phone"="개정 이 검증 휴대전화 다";
+"current mobile number"="당신 은 지금 의 휴대전화 번호 다";
+
+
+//后来追加
+"tips"="작 은 제시";
+"tips detail"= "설치 휴대전화 의 검증 을 사용 할 수 있다 고 빠 르 게 되 찾 아가 비밀번호 를 받 아들 여 계좌 자산 변동 당부 다.";
+"tips question"= "검증 신분 문제?혹시";
+"contact service" = "연락 콜";
+"rewrite new phone"="새로 운 휴대전화 번호 입력 하세요";
+"Verify phone number"="검증 휴대전화 번호";
+"Message code"="문자 메시지 검증 야드";
+"New phone set successfully"="이미 새로 설치 에 성공 했 다";
+"enter correct phone number"="정확 한 휴대전화 번호 입력 해 주 세요";
+"reget"="초후 다시 얻";
+"error code"="검증 야드 잘못";
+"error phone"="휴대전화 번호 오류";
+"match passwords"="두 차례 비밀번호 가 일치 하지 않 았 다";
+"group"="모두 분류";
+"recommend"="추천";
+"Not required"  = "시간 채우기 위해";
+"Advice to fill in"  = "건의 작성";
+

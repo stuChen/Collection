@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="9531" systemVersion="15C50" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9529"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="ExactSearch">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="right" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="JSz-Md-Hvl" customClass="LocalizedButton">
+                    <rect key="frame" x="0.0" y="24" width="56" height="40"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="40" id="1TX-hq-f24"/>
+                        <constraint firstAttribute="width" constant="56" id="qfg-QM-dhs"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                    <state key="normal" title="精确搜索">
+                        <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    </state>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Det-vc-lbj" customClass="LocalizedButton">
+                    <rect key="frame" x="264" y="24" width="56" height="40"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="56" id="Zeh-r8-rdN"/>
+                        <constraint firstAttribute="height" constant="40" id="qYP-1i-UgY"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                    <state key="normal" title="确定">
+                        <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    </state>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0YC-ui-QM3" customClass="LocalizedButton">
+                    <rect key="frame" x="208" y="24" width="56" height="40"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="40" id="Hh4-RY-f8N"/>
+                        <constraint firstAttribute="width" constant="56" id="z30-5P-alW"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                    <state key="normal" title="重置">
+                        <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    </state>
+                </button>
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" indicatorStyle="black" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="Qmh-SN-RvD">
+                    <rect key="frame" x="0.0" y="66" width="320" height="502"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                </tableView>
+            </subviews>
+            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.80493683510638303" colorSpace="calibratedRGB"/>
+            <constraints>
+                <constraint firstItem="Qmh-SN-RvD" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="1Pj-V6-QyB"/>
+                <constraint firstItem="0YC-ui-QM3" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="24" id="1qU-T1-cNq"/>
+                <constraint firstItem="Qmh-SN-RvD" firstAttribute="top" secondItem="0YC-ui-QM3" secondAttribute="bottom" constant="2" id="1zW-gL-QUw"/>
+                <constraint firstAttribute="trailing" secondItem="Det-vc-lbj" secondAttribute="trailing" id="6ch-ua-KSa"/>
+                <constraint firstItem="JSz-Md-Hvl" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="OrH-o7-mbe"/>
+                <constraint firstItem="Det-vc-lbj" firstAttribute="leading" secondItem="0YC-ui-QM3" secondAttribute="trailing" id="U5h-vk-jpd"/>
+                <constraint firstItem="JSz-Md-Hvl" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="24" id="bKx-4h-uP4"/>
+                <constraint firstAttribute="trailing" secondItem="Qmh-SN-RvD" secondAttribute="trailing" id="f9N-3Q-xOg"/>
+                <constraint firstAttribute="bottom" secondItem="Qmh-SN-RvD" secondAttribute="bottom" id="yio-EX-nIA"/>
+                <constraint firstItem="Det-vc-lbj" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="24" id="ztD-7x-qlW"/>
+            </constraints>
+            <connections>
+                <outlet property="table" destination="Qmh-SN-RvD" id="GLM-JB-MCf"/>
+            </connections>
+            <point key="canvasLocation" x="241" y="232"/>
+        </view>
+    </objects>
+</document>

@@ -1,0 +1,50 @@
+PODS:
+  - AFNetworking (2.6.1):
+    - AFNetworking/NSURLConnection (= 2.6.1)
+    - AFNetworking/NSURLSession (= 2.6.1)
+    - AFNetworking/Reachability (= 2.6.1)
+    - AFNetworking/Security (= 2.6.1)
+    - AFNetworking/Serialization (= 2.6.1)
+    - AFNetworking/UIKit (= 2.6.1)
+  - AFNetworking/NSURLConnection (2.6.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.6.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.6.1)
+  - AFNetworking/Security (2.6.1)
+  - AFNetworking/Serialization (2.6.1)
+  - AFNetworking/UIKit (2.6.1):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - REFrostedViewController (2.4.8)
+  - SDWebImage (3.7.3):
+    - SDWebImage/Core (= 3.7.3)
+  - SDWebImage/Core (3.7.3)
+  - SVProgressHUD (1.1.3)
+  - SWTableViewCell (0.3.7)
+  - UMengAnalytics (3.6.6)
+  - UMengSocial (4.4)
+
+DEPENDENCIES:
+  - AFNetworking
+  - REFrostedViewController
+  - SDWebImage
+  - SVProgressHUD
+  - SWTableViewCell (~> 0.3.7)
+  - UMengAnalytics
+  - UMengSocial (~> 4.3)
+
+SPEC CHECKSUMS:
+  AFNetworking: 8e4e60500beb8bec644cf575beee72990a76d399
+  REFrostedViewController: a893b4979ba1f200c547aef9ff4c3fd5a18f5923
+  SDWebImage: 1d2b1a1efda1ade1b00b6f8498865f8ddedc8a84
+  SVProgressHUD: 748080e4f36e603f6c02aec292664239df5279c1
+  SWTableViewCell: 2a94aadc9d47b2b611fa064566bf57948b95b579
+  UMengAnalytics: 4bf831415146b9c57cb10be65fbd43462ef8cf65
+  UMengSocial: aba7296602310385114d82c255539a7bef3b7ab0
+
+COCOAPODS: 0.39.0

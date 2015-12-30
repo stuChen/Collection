@@ -1,0 +1,515 @@
+/* 
+  Language.strings
+  differennt
+
+  Created by apple on 15/12/7.
+  Copyright © 2015年 bodecn. All rights reserved.
+*/
+"index"          ="異なります";
+"Men"           ="男性";
+"Women"          ="さん";
+"Setting" = "せっち";
+"Home Page" = "メインページ";
+"Brand A-Z" = "ブランド A-Z";
+"Search Goods"   ="検索製品";
+
+"Cancel"         ="キャンセル";
+"Clear search records" = "クリア検索記録";
+"Phone number / email" = "携帯電話号/電子メール";
+"Login"          ="ログイン";
+"Settlement" = "行く決済";
+
+"Register"       ="登録";
+"Register Protocal"="登録契約";
+
+"Input your Phone Number" ="電話番号を入力してください";
+
+"Get Code"       ="SMSの検証コードを取得";
+
+"Input Code"     ="認証コードを入力";
+
+"Input Password" ="パスワードを入力する";
+
+"Input Password Again" ="もう一度パスワードを入力してください";
+
+
+"Create Account"   ="アカウントを作成する";
+
+
+"Already Read Protocal" ="契約書を読みました";
+
+"Login Now"       ="今でログイン";
+
+"Already Have Account" ="すでにアカウントをお持ち";
+
+"To Get Again"    ="再取得";
+//导航栏
+"Man Zone" = "人の地帯";
+"New Goods"      ="新製品";
+"Discount column"      ="ディスカウントコラム";
+
+"Topic"          ="トピック";
+
+"The special showcase" ="特別展ギャラリー";
+
+"AllCategorys"   ="すべてのカテゴリ";
+
+"Shopping Bag"   ="ショッピングバッグ";
+
+"Aspiration List"="欲しい物のリスト";
+
+"Order Form"     ="私の注文";
+
+"Return Note"      ="返品単";
+
+"Country Change" ="国の変更";
+
+"Account Setting"="アカウント設定";
+
+"Men zone"="男性はゾーンを行く";
+"Ms zone" ="女性はゾーンを行く";
+
+//首页
+
+"Login Test"     ="テストしてログインします";
+
+"All brands"="すべてのブランド";
+"Brand showcase"="ホールの外観";
+
+
+"Recommended for you"="あなたの商品にオススメ";
+"All categories"="すべてのカテゴリ";
+
+//新品
+
+"Category"       ="カテゴリ";
+
+"Popularity"     ="人気";
+
+"New releases" = "最新hare";
+
+"Price"          ="プライス";
+
+"Supply Shortage"="入荷次第";
+
+//专题
+"Topic Hall"     ="特別展ギャラリー";
+
+//全部分类
+
+//购物袋
+
+"Edit"           ="エディタ";
+
+"Done"           ="実施する";
+
+"Settle Accounts"="お勘定お願いします";
+
+"Shopping Bag Subtotal"="ショッピングバッグ小計";
+
+"Delivery Free"  ="送料無料";
+
+"Move In Asprition"="移動しましリスト";
+
+"Currently Available"="現在在庫";
+
+"Delivery Time"  ="予想される配達時間";
+
+"Delete"         ="削除";
+
+
+"color"="色: ";
+
+"size"="サイズ: ";
+"Buy now"="お勘定お願いします";
+
+"You have not yet signed in"="あなたはログインしていません";
+"If you don’t have an account, please click the Express Checkout"="アカウントをお持ちでない場合は、迅速な決済を喜ば";
+"Express Checkout"="クイック決済";
+"sign in/ registry"="ログイン/登録";
+
+"Your shopping cart is empty"="ショッピングバッグ空";
+"Start shopping now"="選ぶ";
+
+//填写订单
+"Fill Order" ="注文を埋める";
+
+"Consignee"      ="荷受人:";
+
+"Phone"          ="電話:";
+
+"Method of Payment"="支払い";
+
+"Invoice Information"="請求書情報";
+
+"Total Price"    ="一時金";
+
+"Delivery fee"   ="運賃";
+
+"Payment Fact"   ="支出";
+
+"Submit Orders"  ="注文を送信";
+
+
+
+//收货地址
+"Shipping Address"="お届け先の住所";
+
+"Add Address"     ="新規アドレス";
+
+"Edit Address"    ="編集配信アドレス";
+//新建收货地址
+"Phone Number"    ="電話番号:";
+
+"select city"     = "エリア選択]をクリックします";
+"City"            ="場所:";
+
+"Address Detail"  ="アドレス:";
+
+"Save And Use"    ="保存して使用してください";
+"Email"             ="メールボックス:";
+
+//支付方式
+
+"Add Credit Card" ="クレジットカードを追加する";
+
+"Pay With Internet Bank"="オンラインバンキングの支払い";
+
+
+//心愿单
+"Move Out"="削除する";
+
+//订单日期
+
+"Order Date"     ="注文日";
+
+"Order Id"       ="注文番号";
+
+//订单详情
+"Order Detail"   ="注文の詳細";
+
+"already Delivery"="出荷";
+"To payment"     = "未払い分の料金";
+"To Delivery"    ="出荷される";
+"Delivery expend"="私たちはあなたに2時間を維持します。このためには、できるだけ早くお支払い下さい！";
+"Delivery Fail"  ="これは、有効期限が切れている";
+
+"To Get"         ="インバウンド";
+
+"Delivery"       ="配達";
+
+"By the standard express shipping"="標準宅配便で運ば";
+
+"To track the delivery"="[追跡出荷]";
+
+"Shipping Destination"="発送先";
+
+"theContact"     ="連絡先";
+"contactPhone"      = "電話";
+
+"Invoice"        ="インボイス";
+
+"Order Total"    ="総受注";
+
+"order time"      ="注文時間";
+
+"Pay now"="支払うこと";
+
+"payment received"="支払われた";
+"awaiting payment"="未払い";
+"disabled"        = "すでに死文化し";
+
+//类别
+
+"People"         ="群衆";
+
+"Total"          ="すべて";
+
+"Girl"           ="女";
+
+"Middle"         ="ニュートラル";
+
+"Boy"            ="マレ";
+
+"Clothing"       ="衣類";
+
+"Bag"            ="バッグ";
+
+"Shoes"          ="履物";
+
+"Accessories"    ="アクセサリー";
+
+"Wrist watch"    ="腕時計";
+
+"Beauty Makeup"  ="美しさ";
+
+
+"Ensure"         ="決定する";
+
+"Reset"          ="リセット";
+
+//筛选
+
+"Screening"      ="フィルタ";
+
+"Beach"          ="ビーチウエア";
+
+"Coat"           ="コート";
+
+"Dress"          ="ドレス";
+
+"The jacket"     ="ジャケット";
+
+"Pair of jeans"  ="ジーンズ";
+
+"Jumpsuit"       ="ピースパンツ";
+
+"Knit pants"     ="ニットパンツ";
+
+//商品详情
+"Goods Detail"   ="商品の詳細";
+"Size table" = "サイズチャート";
+
+"Add To Aspiration" ="ウィッシュリストを登録しよう";
+
+"Product descriptions"="製品説明";
+
+"Add to the shopping cart"="ショッピングバッグに追加";
+
+"Product code"    ="製品コード:";
+
+"Size" ="サイズ情報";
+
+"Materials" ="製品情報";
+
+"More recommendations for the same brand"="もっと同じブランドをお勧めします";
+
+"Succeed in adding to Wish List" ="ほしい物リストに追加することに成功した";
+
+"Have added to Wish List"="リストに参加しています";
+
+//更换国家
+
+"Change Country"   ="国の変更";
+
+"Change Country Says"="異なる言語バージョンを提供します,あなたのショッピングを容易にするために。\n国を選択してください,ショッピングを開始します";
+
+
+//账户设置
+
+"AccountSetting"   ="アカウント設定";
+
+"WelcomeToMK"      ="別のへようこそ";
+
+"Login/Register"   ="ログイン/登録";
+
+"AccountManager"   ="アカウント管理";
+
+"ImageManager"     ="ピクチャー";
+
+"Notification"     ="知らせる";
+
+"About Us"          ="私たちに関しては";
+
+"account management"= "アカウント管理";
+
+"address management"="アドレス管理";
+"privacy"               = "プライバシーについて";
+
+"Intelligence environment"="インテリジェンス環境";
+"High quality (fit for the Wi-Fi environment)"="高品質(のWi-Fi環境の場合)";
+
+"Ordinary (fit for the 3G or 2G environment)"="一般的な(3Gや2G環境のために)";
+
+"Set a password"="パスワードの設定";
+"Sign out"="ログアウト";
+"Please don’t sign out until a new password is set"="パスワードを設定してから終了してください";
+"signing out now"="終了";
+"Version updating"="バージョンアップ";
+"Feedbacks"="フィードバック";
+"Items you want"="あなたが望む財";
+"Welcome page"="ウェルカム画面";
+"Clear the cache"="キャッシュをクリア";
+"About us"="私たちに関しては";
+
+
+"Are you sure to clear the cache?" ="あなたはキャッシュをクリアしてもよろしい?";
+
+"ProductSupport"  ="製品サポート";
+"clearing"          ="クリア完成";
+"Help"             ="助けて";
+
+"PhoneMK"         ="異なるコール";
+
+"MKSaleRole"       ="異なる  販売および返金ポリシー";
+
+"MKPersonalRole"    ="異なる  個人情報保護方針";
+
+"CopyRight"         ="poseidon co .,ltd . @ 2015版権所有だった";
+
+"Items you want"    ="あなたが取引したい";
+
+"We will help you" ="私たちは、あなたが見つけるのに役立つ!";
+
+"Please type in the luxuries you want to buy"="あなたが購入したい贅沢を入力してください.";
+
+"brand/ name/ description"="ブランド／ファーストネーム／説明";
+
+"We will contact you as soon as we find your luxuries"="あなたの贅沢を探す,すぐにご連絡させて";
+
+"Please type in your phone number"="電話番号を入力";
+
+"We will help you immediately"="あなたが見つけるすぐに助け";
+
+
+"Feedback"              ="フィードバック";
+
+"Submit"                ="提出する";
+
+"Functional suggestions"    ="機能の提案";
+
+"We have received your suggestions. Thank you sincerely"="私たちはあなたの提案を受けている,心からありがとうございます!";
+
+"Give us suggestions of product experience"="私たちの製品の経験の提案に知らせる";
+
+"problem feedbacks"="フィードバック";
+
+"Feedbacks on the functions which cannot work properly"="フィードバックが適切に機能することはできません";
+"functional suggestions" ="機能の提案";
+
+"It has been the latest version. Thank you"="最新バージョンです,THX!";
+
+
+//设置登录密码
+
+"Set your login password"="パスワードの設定";
+
+"Verification of identity"="認証する";
+
+"set the sign password"="パスワードの設定";
+
+"Obtain your phone verification code"="電話確認コードを取得";
+
+"Please type in the code"="確認コードを入力してください";
+
+"close"="シャットダウン";
+
+
+
+//品牌搜索
+
+"Brand search" ="ブランド検索";
+"search" ="検索する";
+
+"Sorry, your search did not match any products, please change your keywords."="いいえ検索結果はありません,キーワードを交換してください";
+
+//品牌推荐
+"Recommended brands"="推奨ブランド";
+
+"popularity"="人気";
+
+"New releases" = "最新hare";
+
+"price"="プライス";
+
+"immediately out of stock"="入荷次第";
+"Has been sold out" = "完売";
+
+//登陆
+"Sign in" ="ログイン";
+
+"account" ="口座番号";
+
+"mobile/e-mail"="電話番号/メールボックス";
+
+"password"="パスワード";
+
+"Please type in your password"="パスワードを入力してください";
+
+"Not a member?"="新しい友達?";
+
+"Create My Account"="アカウントを作成する";
+
+"Forgot Password?"="パスワードをお忘れですか";
+
+"Conditions of Use and Conditions of Sales Terms" ="使用および販売の契約条件";
+
+"Privacy Notice"="個人情報保護方針";
+
+"Copyright"="poseidon co .,ltd . @ 2015版権所有だった";
+
+//心愿单
+
+"Wish list"="欲しい物のリスト";
+
+"You haven’t added any items to your Wish List yet. Shop Now"="まだウィッシュリスト,選ぶ";
+
+"The price falls"="価格は落ちた";
+
+"Available"="お取り寄せ";
+"Unavailable"="現在在庫切れ";
+
+
+//支付方式选择
+
+"Choose a payment option"="支払い方法を選択してください";
+"Alipay"="アリペイ";
+"E-currency payment"="オンラインバンキングの支払い";
+"UnionPay"="银联カードの支払い";
+"Payment methods"="支払い方法";
+//账户管理
+
+"Account management"="アカウント管理";
+
+"Sign password"="ログインパスワード";
+
+"Recommend that you change your password regularly to protect your account security"="*私たちはあなたのアカウントのセキュリティを保護するために定期的にパスワードを変更することをお勧めします";
+
+"phone verification"="電話での検証";
+"If your verified mobile phone has been lost or out of use, please change or replace it immediately"="*お使いの携帯電話が紛失したり、検証を無効になっている場合,すぐに交換して変更";
+
+//修改登录密码
+
+"Change the sign password"  = "パスワードの変更";
+
+"change the sign password"  = "パスワードの変更";
+
+"Find the login password"   = "パスワードをお忘れですか";
+"Set the password"          = "パスワードの設定";
+
+"verified phone"="検証済みの電話:";
+
+"Next"="次のステップ";
+
+"Please fill in the code"="検証コードを記入してください";
+
+"Please enter the code"="確認コードを入力してください";
+"ExpressTips"="無物流情報";
+"ExpressCheck"="物流を調べてみた";
+"Rewrite password" = "再びください。暗証番号だった";
+"New Password setted"="新パスワードが設置を成功させた";
+"alter phone validation" = "携帯電話の検証を修正";
+"alter validated phone"="改正検証されの携帯電話だ";
+"current mobile number"="現在の携帯電話番号も、あなたは";
+
+
+
+
+//后来追加
+"tips"="小さなヒント";
+"tips detail"= "携帯電話の検証を設置するには、速やかに探し出せる暗証番号、口座の資産の変動を注意した。";
+"tips question"= "検証身分問題?ことのできるの";
+"contact service" = "连络コール・";
+"rewrite new phone"="新しい携帯番号入力してください";
+"Verify phone number"="検証の携帯電話番号も、";
+"Message code"="メール検証ヤード";
+"New phone set successfully"="新しい携帯電話は正常に設定されています";
+"enter correct phone number"="正しいの携帯電話番号を入力してください";
+"reget"="秒後 再び取得";
+"error code"="検証ヤード誤った";
+"error phone"="携帯電話番号も、誤った";
+"match passwords"="2回暗証番号が一致していない";
+"group"="全部分類";
+"recommend"="推薦";
+"Not required"  = "埋めるために時間";
+"Advice to fill in"  = "建議記入";
